@@ -13,3 +13,5 @@ Thanks for checking out this front-end coding challenge picked up from Frontend 
 ## Deployment
 
 Deploy this project on Github Pages / Vercel / Netlify.
+
+**Live URL:** https://priyanshusharma0326.github.io/qr-code-component/
