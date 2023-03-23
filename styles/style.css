@@ -27,7 +27,7 @@ img {
     -o-object-fit: contain;
 }
 
-.container {
+main {
     background-color: hsl(0, 0%, 100%);
     width: 21rem;
     height: auto;
